@@ -9,22 +9,30 @@ public class OnionContourPlot
 
     private float radius;
     private float step;
-    private float layer_padding;
 
-    public OnionContourPlot(float radius, float step, float layer_padding)
+    /**
+     * @params
+     * 
+     * radius: represents size of plane that is to be plotted.
+     * 
+     * step: is used to change resolution of plot
+     * 
+     */
+    public OnionContourPlot(float radius, float step)
     {
         this.radius = radius;
         this.step = step;
-        this.layer_padding = layer_padding;
     }
 
-    /*
+    /**
      * 
-     * c represents the contour value
+     * @params 
      * 
-     * vertical_offset represents layer spacing
+     * c: represents the contour value
      * 
-     * radial_scaler changes the plane-size at each layer
+     * vertical_offset: represents layer spacing
+     * 
+     * radial_scaler: changes the plane-size at each layer
      * 
      * 
      */

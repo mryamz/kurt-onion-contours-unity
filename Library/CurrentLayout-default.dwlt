@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 58
+  controlID: 97
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -219,7 +219,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 59
+  controlID: 98
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -244,7 +244,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 60
+  controlID: 99
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -338,20 +338,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\mryamz\Documents\GitHub\kurt-onion-unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 64330000
-    m_LastClickedID: 13156
-    m_ExpandedIDs: 000000006433000000ca9a3b
+    m_SelectedIDs: 94330000
+    m_LastClickedID: 13204
+    m_ExpandedIDs: 000000008833000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -379,7 +379,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000088330000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -502,9 +502,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 7e350000
-      m_LastClickedID: 13694
-      m_ExpandedIDs: 2cf7ffff70fbffff
+      m_SelectedIDs: 40330000
+      m_LastClickedID: 13120
+      m_ExpandedIDs: 70fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -564,9 +564,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 3.781487, y: 4.1999416, z: -12.36837}
+    m_Target: {x: 1.1223941, y: 1.4019823, z: -2.501853}
     speed: 2
-    m_Value: {x: 3.781487, y: 4.1999416, z: -12.36837}
+    m_Value: {x: 1.1223941, y: 1.4019823, z: -2.501853}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -612,13 +612,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.20955642, y: 0.07822346, z: -0.016819408, w: -0.9745202}
+    m_Target: {x: -0.21967879, y: 0.13905299, z: -0.031650744, w: -0.96509624}
     speed: 2
-    m_Value: {x: -0.20955586, y: 0.07822325, z: -0.016819363, w: -0.97451764}
+    m_Value: {x: -0.21967803, y: 0.13905251, z: -0.031650636, w: -0.9650929}
   m_Size:
-    m_Target: 40.82396
+    m_Target: 5.6101494
     speed: 2
-    m_Value: 40.82396
+    m_Value: 5.6101494
   m_Ortho:
     m_Target: 0
     speed: 2
